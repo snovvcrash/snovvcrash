@@ -15,3 +15,10 @@
                                                     `YY~~~~YY'
                                                      ||    ||
 ```
+
+<details>
+  <summary>whoami</summary>
+
+  [snovvcrash.rocks/about](https://snovvcrash.rocks/about)
+
+</details>
