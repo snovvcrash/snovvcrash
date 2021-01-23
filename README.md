@@ -16,6 +16,8 @@
                                                      ||    ||
 ```
 
+![trophy](https://github-profile-trophy.vercel.app/?username=snovvcrash&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=dracula&no-frame=true)
+
 <details>
   <summary>whoami</summary>
 
