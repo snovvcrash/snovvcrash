@@ -19,7 +19,7 @@
 <details>
   <summary>whoami</summary>
 
-  [snovvcrash](https://snovvcrash.rocks/about)
+  > All the tools related to this GitHub account are provided for educational and research purposes only. The author is not responsible for any illegal use of any of the existing tools.
 
 </details>
 
