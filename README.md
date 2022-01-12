@@ -17,7 +17,7 @@
 ```
 
 <details>
-  <summary>whoami</summary>
+  <summary>DISCLAIMER</summary>
 
   > All the tools related to this GitHub account are provided for educational and research purposes only. The author is not responsible for any illegal use of any of the existing tools.
 
