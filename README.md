@@ -24,3 +24,10 @@
 </details>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=snovvcrash&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<table>
+  <tr>
+    <td>You're visitor</td>
+    <td><img src="https://profile-counter.glitch.me/snovvcrash/count.svg" alt="" /></td>
+  </tr>
+</table>
