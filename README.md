@@ -23,6 +23,8 @@
   </tr>
 </table>
 
+---
+
 **DISCLAIMER**
 
 > All the tools associated with this GitHub account are provided for educational and research purposes only. The owner of the account is not responsible for any illegal use of any of the related tooling.
