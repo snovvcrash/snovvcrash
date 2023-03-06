@@ -19,7 +19,11 @@
 <table>
   <tr>
     <td>You're visitor</td>
-    <td><img src="https://profile-counter.glitch.me/snovvcrash/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/snovvcrash/count.svg" alt="Counter" /></td>
+  </tr>
+  <tr>
+    <td>Support</td>
+    <td><a href="https://boosty.to/snovvcrash"><img src="https://img.shields.io/badge/sponsor-%f0%9f%a4%8d-c45a93?style=for-the-badge&logo=github" alt="Sponsor" /></a></td>
   </tr>
 </table>
 
