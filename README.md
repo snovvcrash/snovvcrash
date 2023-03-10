@@ -27,6 +27,14 @@
   </tr>
 </table>
 
+![GitHub-Stats-Light](https://github-readme-stats.vercel.app/api?username=snovvcrash&show_icons=true&theme=swift#gh-light-mode-only)
+
+![Top-Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=snovvcrash&layout=compact&theme=swift#gh-light-mode-only)
+
+![GitHub-Stats-Dark](https://github-readme-stats.vercel.app/api?username=snovvcrash&show_icons=true&theme=cobalt#gh-dark-mode-only)
+
+![Top-Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=snovvcrash&layout=compact&theme=cobalt#gh-dark-mode-only)
+
 <details>
   <summary>DISCLAIMER</summary>
 
