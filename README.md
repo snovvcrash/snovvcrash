@@ -16,11 +16,11 @@
                                                      ||    ||
 ```
 
-[![GitHub-Stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=snovvcrash&show_icons=true&theme=swift#gh-light-mode-only)](https://github.com/snovvcrash#gh-light-mode-only)
-[![Top-Langs-Light](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=snovvcrash&layout=compact&theme=swift#gh-light-mode-only)](https://github.com/snovvcrash#gh-light-mode-only)
+<a href="https://github.com/snovvcrash#gh-light-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=snovvcrash&show_icons=true&theme=swift#gh-light-mode-only" width="400px" alt="GitHub-Stats-Light" /></a>
+<a href="https://github.com/snovvcrash#gh-light-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=snovvcrash&layout=compact&theme=swift#gh-light-mode-only" width="325px" alt="Top-Langs-Light" /></a>
 
-[![GitHub-Stats-Dark](https://github-readme-stats-sigma-five.vercel.app/api?username=snovvcrash&show_icons=true&theme=cobalt#gh-dark-mode-only)](https://github.com/snovvcrash#gh-dark-mode-only)
-[![Top-Langs-Dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=snovvcrash&layout=compact&theme=cobalt#gh-dark-mode-only)](https://github.com/snovvcrash#gh-dark-mode-only)
+<a href="https://github.com/snovvcrash#gh-dark-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=snovvcrash&show_icons=true&theme=cobalt#gh-dark-mode-only" width="400px" alt="GitHub-Stats-Dark" /></a>
+<a href="https://github.com/snovvcrash#gh-dark-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=snovvcrash&layout=compact&theme=cobalt#gh-dark-mode-only" width="325px" alt="Top-Langs-Dark" /></a>
 
 <table>
   <tr>
