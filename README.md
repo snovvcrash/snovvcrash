@@ -17,10 +17,10 @@
 ```
 
 <a href="https://github.com/snovvcrash#gh-light-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=snovvcrash&show_icons=true&theme=swift#gh-light-mode-only" width="400px" alt="GitHub-Stats-Light" /></a>
-<a href="https://github.com/snovvcrash#gh-light-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=snovvcrash&layout=compact&theme=swift#gh-light-mode-only" width="325px" alt="Top-Langs-Light" /></a>
+<a href="https://github.com/snovvcrash#gh-light-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=snovvcrash&layout=compact&theme=swift#gh-light-mode-only" width="324px" alt="Top-Langs-Light" /></a>
 
 <a href="https://github.com/snovvcrash#gh-dark-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=snovvcrash&show_icons=true&theme=cobalt#gh-dark-mode-only" width="400px" alt="GitHub-Stats-Dark" /></a>
-<a href="https://github.com/snovvcrash#gh-dark-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=snovvcrash&layout=compact&theme=cobalt#gh-dark-mode-only" width="325px" alt="Top-Langs-Dark" /></a>
+<a href="https://github.com/snovvcrash#gh-dark-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=snovvcrash&layout=compact&theme=cobalt#gh-dark-mode-only" width="324px" alt="Top-Langs-Dark" /></a>
 
 <table>
   <tr>
