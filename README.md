@@ -16,6 +16,14 @@
                                                      ||    ||
 ```
 
+| **Gist**                                                                                        | **Description**                                                                                         |
+|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| [elevator_decrypt_key.cpp](https://gist.github.com/snovvcrash/caded55a318bbefcb6cc9ee30e82f824) | Unprotect the App-Bound Encryption Key via an RPC call to Google Chrome Elevation Service (PoC)         |
+| [ImagePathNameSpoof.c](https://gist.github.com/snovvcrash/3d5008d7e46d1cc60f0f8bdc8cdb66a5)     | https://twitter.com/Octoberfest73/status/1642165975805050881                                            |
+| [RemComObf.sh](https://gist.github.com/snovvcrash/123945e8f06c7182769846265637fedb)             | A simple RemComSvc obfuscation PoC                                                                      |
+| [cfinder.py](https://gist.github.com/snovvcrash/39263ccae8e07210c3f87c9472b4c908)               | Pyramid presets (https://github.com/naksyn/Pyramid)                                                     |
+| [generate.py](https://gist.github.com/snovvcrash/35773330434e738bd86155894338ba4f)              | Dynamic shellcode runner based on @xpn's example: https://blog.xpnsec.com/weird-ways-to-execute-dotnet/ |
+
 <a href="https://github.com/snovvcrash#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=snovvcrash&show_icons=true&hide_rank=true&theme=swift#gh-light-mode-only" width="274px" alt="GitHub-Stats-Light" /></a>
 <a href="https://github.com/snovvcrash#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=snovvcrash&layout=compact&theme=swift#gh-light-mode-only" width="320px" alt="Top-Langs-Light" /></a>
 
