@@ -26,9 +26,9 @@
 | [cfinder.py](https://gist.github.com/snovvcrash/39263ccae8e07210c3f87c9472b4c908)               | Presets for @naksyn's Pyramid.                                                                   |
 | [generate.py](https://gist.github.com/snovvcrash/35773330434e738bd86155894338ba4f)              | Dynamic shellcode runner based on @xpn's example.                                                |
 
-**:whale: Images**
+**:whale: Docker Hub**
 
-| **Docker**                                                                           | **Alias**                                                                                                     |
+| **Image**                                                                            | **Alias**                                                                                                     |
 |--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | [physmem2profit](https://hub.docker.com/repository/docker/snovvcrash/physmem2profit) | ```docker run --rm -it -v `pwd`:/app/output --privileged snovvcrash/physmem2profit```                         |
 | [ollvm13](https://hub.docker.com/repository/docker/snovvcrash/ollvm13)               | ```docker run --rm -it -u `id -u` -v /tmp:/build -v `pwd`:/tmp snovvcrash/ollvm13 x86_64-w64-mingw32-clang``` |
