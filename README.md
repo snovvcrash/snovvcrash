@@ -16,19 +16,19 @@
                                                      ||    ||
 ```
 
-**GH Gists**
+**:octocat: Gists**
 
-| **Gist :octocat:**                                                                              | **Description :scroll:**                                                                                |
-|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| [elevator_decrypt_key.cpp](https://gist.github.com/snovvcrash/caded55a318bbefcb6cc9ee30e82f824) | Unprotect the App-Bound Encryption Key via an RPC call to Google Chrome Elevation Service (PoC).        |
-| [ImagePathNameSpoof.c](https://gist.github.com/snovvcrash/3d5008d7e46d1cc60f0f8bdc8cdb66a5)     | Spawn process with an arbitary DLL search order start directory.                                        |
-| [RemComObf.sh](https://gist.github.com/snovvcrash/123945e8f06c7182769846265637fedb)             | A simple RemComSvc obfuscation PoC.                                                                     |
-| [cfinder.py](https://gist.github.com/snovvcrash/39263ccae8e07210c3f87c9472b4c908)               | Presets for @naksyn's Pyramid.                                                                          |
-| [generate.py](https://gist.github.com/snovvcrash/35773330434e738bd86155894338ba4f)              | Dynamic shellcode runner based on @xpn's example.                                                       |
+| **Gist**                                                                                        | **Description**                                                                                  |
+|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| [elevator_decrypt_key.cpp](https://gist.github.com/snovvcrash/caded55a318bbefcb6cc9ee30e82f824) | Unprotect the App-Bound Encryption Key via an RPC call to Google Chrome Elevation Service (PoC). |
+| [ImagePathNameSpoof.c](https://gist.github.com/snovvcrash/3d5008d7e46d1cc60f0f8bdc8cdb66a5)     | Spawn process with an arbitary DLL search order start directory.                                 |
+| [RemComObf.sh](https://gist.github.com/snovvcrash/123945e8f06c7182769846265637fedb)             | A simple RemComSvc obfuscation PoC.                                                              |
+| [cfinder.py](https://gist.github.com/snovvcrash/39263ccae8e07210c3f87c9472b4c908)               | Presets for @naksyn's Pyramid.                                                                   |
+| [generate.py](https://gist.github.com/snovvcrash/35773330434e738bd86155894338ba4f)              | Dynamic shellcode runner based on @xpn's example.                                                |
 
-**Docker Images**
+**:whale: Images**
 
-| **Docker :whale:**                                                                   | **Alias :keyboard:**                                                                                          |
+| **Docker**                                                                           | **Alias**                                                                                                     |
 |--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | [physmem2profit](https://hub.docker.com/repository/docker/snovvcrash/physmem2profit) | ```docker run --rm -it -v `pwd`:/app/output --privileged snovvcrash/physmem2profit```                         |
 | [ollvm13](https://hub.docker.com/repository/docker/snovvcrash/ollvm13)               | ```docker run --rm -it -u `id -u` -v /tmp:/build -v `pwd`:/tmp snovvcrash/ollvm13 x86_64-w64-mingw32-clang``` |
