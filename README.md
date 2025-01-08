@@ -25,7 +25,7 @@
 | [sspi.py](https://gist.github.com/snovvcrash/ff867dbd922ff2c36f480c0a61819f29)                  | Minified version of Python SSPI lib stolen from @ly4k's Certipy.                                 |
 | [dllmain.cpp](https://gist.github.com/snovvcrash/8e2e0e0b04014c61c81761e0bddbc6ea)              | From VMWSU.DLL Side Load to Malicious SSP (PoC).                                                 |
 | [ImagePathNameSpoof.c](https://gist.github.com/snovvcrash/3d5008d7e46d1cc60f0f8bdc8cdb66a5)     | Spawn process with an arbitary DLL search order start directory (PoC).                           |
-| [secretsdump-no-smb.patch](https://gist.github.com/snovvcrash/f7d8739dd7bcfa474981d6c24c8c77d9) | DCSync without SMB interaction (impacket-secretsdump)                                            |
+| [secretsdump-no-smb.patch](https://gist.github.com/snovvcrash/f7d8739dd7bcfa474981d6c24c8c77d9) | DCSync without SMB interaction (impacket-secretsdump).                                           |
 | [RemComObf.sh](https://gist.github.com/snovvcrash/123945e8f06c7182769846265637fedb)             | Simple RemComSvc obfuscation (PoC).                                                              |
 | [cfinder.py](https://gist.github.com/snovvcrash/39263ccae8e07210c3f87c9472b4c908)               | Presets for @naksyn's Pyramid.                                                                   |
 | [generate.py](https://gist.github.com/snovvcrash/35773330434e738bd86155894338ba4f)              | Dynamic shellcode runner based on @xpn's example.                                                |
