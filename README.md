@@ -39,6 +39,10 @@
 | [divideandscan](https://hub.docker.com/repository/docker/snovvcrash/divideandscan)   | ```docker run --rm -it --name das -v ~/.das:/root/.das -v `pwd`:/app -p 8050:8050 snovvcrash/divideandscan``` |
 | [pcredz](https://hub.docker.com/repository/docker/snovvcrash/pcredz)                 | ```docker run --rm -it --network host -v ~/.pcredz:/root/.pcredz snovvcrash/pcredz```                         |
 
+**:wrench: .dotfiles**
+
+[**`~/.*`**](https://github.com/snovvcrash/dotfiles-linux) | [**`%USERPROFILE%\.*`**](https://github.com/snovvcrash/dotfiles-windows)
+
 **:chart_with_upwards_trend: Stats**
 
 <a href="https://github.com/snovvcrash#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=snovvcrash&show_icons=true&hide_rank=true&theme=swift#gh-light-mode-only" width="274px" alt="GitHub-Stats-Light" /></a>
