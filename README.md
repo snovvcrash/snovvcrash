@@ -49,17 +49,6 @@
 <a href="https://github.com/snovvcrash#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=snovvcrash&show_icons=true&hide_rank=true&theme=cobalt#gh-dark-mode-only" width="274px" alt="GitHub-Stats-Dark" /></a>
 <a href="https://github.com/snovvcrash#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=snovvcrash&layout=compact&theme=cobalt#gh-dark-mode-only" width="320px" alt="Top-Langs-Dark" /></a>
 
-<table>
-  <tr>
-    <td>You're visitor</td>
-    <td><a href="https://github.com/snovvcrash"><img src="https://profile-counter.glitch.me/snovvcrash/count.svg" alt="Counter" /></a></td>
-  </tr>
-  <tr>
-    <td>Support</td>
-    <td><a href="https://boosty.to/snovvcrash"><img src="https://img.shields.io/badge/sponsor-%f0%9f%a4%8d-c45a93?style=for-the-badge&logo=github" alt="Sponsor" /></a></td>
-  </tr>
-</table>
-
 <details>
   <summary>DISCLAIMER</summary>
 
