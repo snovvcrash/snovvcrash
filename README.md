@@ -21,8 +21,8 @@
 | **Gist**                                                                                        | **Description**                                                                                  |
 |-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | [elevator_decrypt_key.cpp](https://gist.github.com/snovvcrash/caded55a318bbefcb6cc9ee30e82f824) | Unprotect the App-Bound Encryption Key via an RPC call to Google Chrome Elevation Service (PoC). |
-| [sspi.py](https://gist.github.com/snovvcrash/ff867dbd922ff2c36f480c0a61819f29)                  | Minified version of Python SSPI lib stolen from @ly4k's Certipy.                                 |
 | [secretsdump-no-smb.patch](https://gist.github.com/snovvcrash/f7d8739dd7bcfa474981d6c24c8c77d9) | DCSync without SMB interaction (impacket-secretsdump).                                           |
+| [sspi.py](https://gist.github.com/snovvcrash/ff867dbd922ff2c36f480c0a61819f29)                  | Minified version of Python SSPI lib stolen from @ly4k's Certipy.                                 |
 
 **:whale: Docker Hub**
 
