@@ -39,11 +39,11 @@
 
 **:chart_with_upwards_trend: Stats**
 
-<a href="https://github.com/snovvcrash#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=snovvcrash&show_icons=true&hide_rank=true&theme=swift#gh-light-mode-only" width="274px" alt="GitHub-Stats-Light" /></a>
-<a href="https://github.com/snovvcrash#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=snovvcrash&layout=compact&theme=swift#gh-light-mode-only" width="320px" alt="Top-Langs-Light" /></a>
+<a href="https://github.com/snovvcrash#gh-light-mode-only"><img src="https://github-readme-stats-one-gamma-40.vercel.app/api?username=snovvcrash&show_icons=true&hide_rank=true&theme=swift#gh-light-mode-only" width="274px" alt="GitHub-Stats-Light" /></a>
+<a href="https://github.com/snovvcrash#gh-light-mode-only"><img src="https://github-readme-stats-one-gamma-40.vercel.app/api/top-langs?username=snovvcrash&layout=compact&theme=swift#gh-light-mode-only" width="320px" alt="Top-Langs-Light" /></a>
 
-<a href="https://github.com/snovvcrash#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=snovvcrash&show_icons=true&hide_rank=true&theme=cobalt#gh-dark-mode-only" width="274px" alt="GitHub-Stats-Dark" /></a>
-<a href="https://github.com/snovvcrash#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=snovvcrash&layout=compact&theme=cobalt#gh-dark-mode-only" width="320px" alt="Top-Langs-Dark" /></a>
+<a href="https://github.com/snovvcrash#gh-dark-mode-only"><img src="https://github-readme-stats-one-gamma-40.vercel.app/api?username=snovvcrash&show_icons=true&hide_rank=true&theme=cobalt#gh-dark-mode-only" width="274px" alt="GitHub-Stats-Dark" /></a>
+<a href="https://github.com/snovvcrash#gh-dark-mode-only"><img src="https://github-readme-stats-one-gamma-40.vercel.app/api/top-langs?username=snovvcrash&layout=compact&theme=cobalt#gh-dark-mode-only" width="320px" alt="Top-Langs-Dark" /></a>
 
 <details>
   <summary>DISCLAIMER</summary>
